@@ -1,0 +1,117 @@
+{
+  "company": {
+    "name": "Barber React Landing Page",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Nossa historia",
+      "href": "product"
+    },
+    {
+      "name": "Contato",
+      "href": "features"
+    },
+
+    {
+      "name": "Valores",
+      "href": "pricing"
+    },
+    {
+      "name": "Sobre",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Aqui a gente",
+    "subtitle": "Apresenta o trabalho",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras erat lacus, varius varius pharetra ut, suscipit vitae mi. In sapien.",
+    "img": "/assets/images/happyTeam.jpeg",
+    "primaryAction": {
+      "text": "botao do whats ou algo assim",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "manda um email pro cabeca",
+      "href": "mailto:victor.oficial093@gmail.com?subject=Vito cabeca mestre da programação!"
+    }
+  },
+  "product": {
+    "title": "aqui coloca os contatos ou os trampos sla",
+    "items": [
+      {
+        "title": "Corte de cabelo",
+        "description": "O melhor corte de cabelo do mundo, abimas o melhor barbeiro que joga street figher",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "Modelagem de Barba",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras erat lacus, varius varius pharetra ut, suscipit vitae mi. In sapien.",
+        "img": "/assets/images/product1.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Excelente & Acessível ",
+    "subtitle": "O Melhor Barber da Região",
+    "description": "baba um ovo p mano fala varias fita e tal pra completar um espaço q de um design descente, kaue pipipipopo vou colocar um outro lorem ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada quam magna, non maximus purus pellentesque rhoncus. Fusce sollicitudin ipsum et mattis faucibus. Ut molestie, nisl at lacinia bibendum, eros neque elementum ante, id tempus nibh felis eu turpis. Vivamus magna dolor, finibus vitae pulvinar sit amet, feugiat sit amet..",
+    "items": [
+      {
+        "name": "React.js",
+        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Tailwind",
+        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "icon": "/assets/images/tailwindcss.svg"
+      },
+      {
+        "name": "Next.js",
+        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Typescript",
+        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Valores",
+    "items": [
+      {
+        "name": "Barba",
+        "price": "$20",
+        "priceDetails": "Reais",
+        "features": ["qqr fita", "qqr fita", "qqr fita", "qqr fita"]
+      },
+      {
+        "name": "Corte e Barba",
+        "price": "$45",
+        "priceDetails": "Reais",
+
+        "features": ["qqr fita", "qqr fita", "qqr fita", "qqr fita"]
+      },
+      {
+        "name": "Corte",
+        "price": "$30",
+        "priceDetails": "Reais",
+        "features": ["qqr fita", "qqr fita", "qqr fita", "qqr fita"]
+      }
+    ]
+  },
+  "about": {
+    "sections": [],
+    "socialMedia": {
+      "github": "https://github.com/victormicco",
+      "twitter": "",
+      "linkedin": "https://www.linkedin.com/in/victormicco"
+    }
+  }
+}
